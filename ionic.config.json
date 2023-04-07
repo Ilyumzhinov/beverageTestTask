@@ -1,0 +1,7 @@
+{
+  "name": "beverages-test-task",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
