@@ -1,0 +1,38 @@
+.beverageImageContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.beverageImageContainer img {
+  width: 5em;
+}
+
+.label {
+  font-size: 1em;
+  margin: 0;
+}
+
+.value {
+  font-weight: bold;
+  font-size: 1rem;
+  margin: 0;
+}
+
+.beverageInfo {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.beverageInfo p {
+  margin: 0;
+}
+
+.beverageName {
+  font-size: large;
+  font-weight: bolder;
+}
+
+.beverageTitle {
+  color: rgb(136, 136, 136);
+}
