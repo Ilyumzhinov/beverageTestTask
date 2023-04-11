@@ -1,5 +1,5 @@
 import { IonAvatar, IonItem, IonLabel } from "@ionic/react";
-import { Beverage } from "../../model/beverages";
+import { Beverage } from "../../model/Beverages";
 
 
 /** Рендерит 1 напиток */

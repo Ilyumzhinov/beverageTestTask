@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { Beverage, getBeverages } from '../../model/beverages';
+import { Beverage, getBeverages } from '../../model/Beverages';
 import {
   IonButton,
   IonButtons,
