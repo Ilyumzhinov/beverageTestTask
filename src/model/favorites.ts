@@ -1,6 +1,6 @@
 // NOTE: Содержит фукнции для сохранения Избранных элементов
 
-import { Beverage, getAllBeverages } from "./Beverages"
+import { Beverage, getAllBeverages } from "./beverages"
 
 /** Возвращает ID напитков из storage API */
 function getIDs(): Set<number> {

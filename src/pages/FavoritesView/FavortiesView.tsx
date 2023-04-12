@@ -1,7 +1,7 @@
 import { IonAvatar, IonButton, IonButtons, IonContent, IonHeader, IonItem, IonItemOption, IonItemOptions, IonItemSliding, IonLabel, IonList, IonTitle, IonToolbar } from "@ionic/react"
 import React, { useEffect, useState } from "react"
-import { Favorites } from "../../model/Favorites"
-import { Beverage } from "../../model/Beverages"
+import { Favorites } from "../../model/favorites"
+import { Beverage } from "../../model/beverages"
 import { useHistory } from "react-router"
 import './FavoritesView.css'
 

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Beverage, getBeverage } from '../../model/Beverages';
+import { Beverage, getBeverage } from '../../model/beverages';
 import {
   IonBackButton,
   IonButton,
@@ -20,7 +20,7 @@ import {
 } from '@ionic/react';
 import { useParams } from 'react-router';
 import './BeverageView.css';
-import { Favorites } from '../../model/Favorites';
+import { Favorites } from '../../model/favorites';
 
 
 /** Окно для показа подробной информации о напитке */
