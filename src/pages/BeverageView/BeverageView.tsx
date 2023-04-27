@@ -41,7 +41,7 @@ export const BeverageView: React.FC = () => {
 
   /** Добавляет или удаляет из Избранного */
   const handleFavorite = () => {
-    if (beverage == undefined)
+    if (beverage === undefined)
       return
 
     setFavorite(v => !v)
@@ -55,13 +55,13 @@ export const BeverageView: React.FC = () => {
       <IonHeader translucent>
         <IonToolbar>
           <IonButtons slot="start">
-            <IonBackButton text="Main" defaultHref="/main" />
+            <IonBackButton text="Главная" defaultHref="/main" />
           </IonButtons>
         </IonToolbar>
       </IonHeader>
 
       <IonContent fullscreen>
-        {beverage == undefined ? (
+        {beverage === undefined ? (
           <IonProgressBar type="indeterminate" />
         ) :
           (
@@ -105,7 +105,7 @@ export const BeverageView: React.FC = () => {
           )}
       </IonContent>
 
-      {beverage != undefined && (
+      {beverage !== undefined && (
         <IonFooter collapse="fade" class="ion-no-border">
           <IonToolbar class='ion-padding'>
             <IonButton

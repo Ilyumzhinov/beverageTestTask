@@ -41,7 +41,7 @@ export const FavoritesView: React.FC<{ dismiss: () => void }> = ({ dismiss }) =>
                 </IonToolbar>
             </IonHeader>
             <IonContent>
-                {favorites.length == 0 ?
+                {favorites.length === 0 ?
                     <div className='placeholder'>Ничего не добавлено</div> : (
                         <IonList>
                             {favorites.map(beverage => (
