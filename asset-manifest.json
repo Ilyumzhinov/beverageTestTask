@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/beverageTestTask/static/css/main.79a0fb6b.css",
+    "main.js": "/beverageTestTask/static/js/main.f2f1b5bc.js",
+    "static/js/443.34692c03.chunk.js": "/beverageTestTask/static/js/443.34692c03.chunk.js",
+    "static/js/738.505d297a.chunk.js": "/beverageTestTask/static/js/738.505d297a.chunk.js",
+    "static/js/372.83fdaec1.chunk.js": "/beverageTestTask/static/js/372.83fdaec1.chunk.js",
+    "static/js/856.60175b90.chunk.js": "/beverageTestTask/static/js/856.60175b90.chunk.js",
+    "static/js/22.294e9bc1.chunk.js": "/beverageTestTask/static/js/22.294e9bc1.chunk.js",
+    "static/js/344.0fc42e20.chunk.js": "/beverageTestTask/static/js/344.0fc42e20.chunk.js",
+    "static/js/841.119c7bab.chunk.js": "/beverageTestTask/static/js/841.119c7bab.chunk.js",
+    "static/js/186.c637cc53.chunk.js": "/beverageTestTask/static/js/186.c637cc53.chunk.js",
+    "static/js/787.82adeefc.chunk.js": "/beverageTestTask/static/js/787.82adeefc.chunk.js",
+    "index.html": "/beverageTestTask/index.html",
+    "main.79a0fb6b.css.map": "/beverageTestTask/static/css/main.79a0fb6b.css.map",
+    "main.f2f1b5bc.js.map": "/beverageTestTask/static/js/main.f2f1b5bc.js.map",
+    "443.34692c03.chunk.js.map": "/beverageTestTask/static/js/443.34692c03.chunk.js.map",
+    "738.505d297a.chunk.js.map": "/beverageTestTask/static/js/738.505d297a.chunk.js.map",
+    "372.83fdaec1.chunk.js.map": "/beverageTestTask/static/js/372.83fdaec1.chunk.js.map",
+    "856.60175b90.chunk.js.map": "/beverageTestTask/static/js/856.60175b90.chunk.js.map",
+    "22.294e9bc1.chunk.js.map": "/beverageTestTask/static/js/22.294e9bc1.chunk.js.map",
+    "344.0fc42e20.chunk.js.map": "/beverageTestTask/static/js/344.0fc42e20.chunk.js.map",
+    "841.119c7bab.chunk.js.map": "/beverageTestTask/static/js/841.119c7bab.chunk.js.map",
+    "186.c637cc53.chunk.js.map": "/beverageTestTask/static/js/186.c637cc53.chunk.js.map",
+    "787.82adeefc.chunk.js.map": "/beverageTestTask/static/js/787.82adeefc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79a0fb6b.css",
+    "static/js/main.f2f1b5bc.js"
+  ]
+}
