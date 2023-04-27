@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/beverageTestTask/static/css/main.79a0fb6b.css",
-    "main.js": "/beverageTestTask/static/js/main.02013681.js",
+    "main.js": "/beverageTestTask/static/js/main.eb4d627f.js",
     "static/js/443.34692c03.chunk.js": "/beverageTestTask/static/js/443.34692c03.chunk.js",
     "static/js/738.505d297a.chunk.js": "/beverageTestTask/static/js/738.505d297a.chunk.js",
     "static/js/372.83fdaec1.chunk.js": "/beverageTestTask/static/js/372.83fdaec1.chunk.js",
@@ -13,7 +13,7 @@
     "static/js/787.82adeefc.chunk.js": "/beverageTestTask/static/js/787.82adeefc.chunk.js",
     "index.html": "/beverageTestTask/index.html",
     "main.79a0fb6b.css.map": "/beverageTestTask/static/css/main.79a0fb6b.css.map",
-    "main.02013681.js.map": "/beverageTestTask/static/js/main.02013681.js.map",
+    "main.eb4d627f.js.map": "/beverageTestTask/static/js/main.eb4d627f.js.map",
     "443.34692c03.chunk.js.map": "/beverageTestTask/static/js/443.34692c03.chunk.js.map",
     "738.505d297a.chunk.js.map": "/beverageTestTask/static/js/738.505d297a.chunk.js.map",
     "372.83fdaec1.chunk.js.map": "/beverageTestTask/static/js/372.83fdaec1.chunk.js.map",
@@ -26,6 +26,6 @@
   },
   "entrypoints": [
     "static/css/main.79a0fb6b.css",
-    "static/js/main.02013681.js"
+    "static/js/main.eb4d627f.js"
   ]
 }
